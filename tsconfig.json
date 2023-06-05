@@ -7,6 +7,7 @@
     "forceConsistentCasingInFileNames": true,
     "lib": ["es2018"],
     "module": "commonjs",
+    "noEmit": true,
     "noEmitOnError": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitReturns": true,
@@ -21,7 +22,7 @@
     "node_modules"
   ],
   "include": [
-    "src/**/*.ts"
+    "index.js"
   ]
 }
   
