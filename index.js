@@ -57,7 +57,7 @@ module.exports = {
       'arrow-body-style': ['error', 'as-needed'],
       'eol-last': ['error', 'always'],
       'import/no-unresolved': 'error',
-      'import/order': ['error', { alphabetize: { caseInsensitive: true, order: 'asc' } }],
+      'import/order': ['error', { alphabetize: { caseInsensitive: false, order: 'asc' } }],
       'indent': ['error', 2],
       'no-extra-parens': 'error',
       'no-multi-spaces': 'error',
