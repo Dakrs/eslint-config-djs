@@ -14,6 +14,7 @@
     "eslint": "8.42.0",
     "eslint-import-resolver-typescript": "3.5.5",
     "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-typescript-sort-keys": "2.3.0",
     "lint-staged": "13.2.2",
     "typescript": "~5.0.0"
   },
