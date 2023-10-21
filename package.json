@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-djs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple subset of eslint rules",
   "main": "index.js",
   "scripts": {
