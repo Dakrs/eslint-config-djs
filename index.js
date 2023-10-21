@@ -31,8 +31,8 @@ module.exports = {
     '@typescript-eslint/comma-dangle': 'error',
     '@typescript-eslint/comma-spacing': ['error', { after: true, before: false }],
     '@typescript-eslint/consistent-type-imports': ['error', { prefer: 'type-imports' }],
+    '@typescript-eslint/indent': ['error', 2 ],
     '@typescript-eslint/keyword-spacing': ['error', { before: true }],
-    '@typescript-eslint/indent': ['error', 2, ],
     '@typescript-eslint/member-delimiter-style': ['error', {
       multiline: { delimiter: 'semi', 'requireLast': true },
       multilineDetection: 'brackets',
